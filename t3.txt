@@ -1,0 +1,58 @@
+PS C:\Users\neo\Desktop\github2\folder2> history
+
+  Id CommandLine
+  -- -----------
+   1 try { . "d:\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+   2 git clone https://github.com/rohithgh12/devops.git
+   3 git add t2.txt
+   4 git init
+   5 git add t2.txt
+   6 git add t2.txt
+   7 cd devops
+   8 cd t2.txt
+   9 git add  t2.txt
+  10 git commit -a
+  11 git commit -m "add t2 "
+  12 git push origin
+  13 git push origin
+  14 git commit t2.txt
+  15 git push origin
+  16 git pull
+  17 git pull
+  18 git add t1.txt
+  19 git push origin
+  20 git commit - m
+  21 git commit -m "added t1 AFTER DELETING IT AGIN"
+  22 git push origin
+  23 CD ..
+  24 git add t1.txt
+  25  git commit -a
+  26 git push origin
+  27 git add t1.txt
+  28 cd devops
+  29 git add t1.txt
+  30 git commit -m "added to devops folder...
+  31 git push origin
+  32 git push origin
+  33 GIT COMMIT -m "deleted t1 agqain"
+  34 git commit  -m "deleted t1 agqain"
+  35 git commit -a
+  36 git commit  -m "deleted t1 agqain"
+  37 git push origin
+  38 cd ..
+  39 cd folder 2
+  40 cd folder2
+  41 cd folder_2
+  42 cd folder2
+  43 gi init
+  44 git init
+  45 git add t3.txt
+  46 git commit -a
+  47 git remote add origin https://github.com/rohithgh12/folder-2.git
+  48 giut ststus
+  49 git status
+  50 git push origin master
+  51 git branch "b1"
+  52 git push -u origin b1
+  53 git pull
+  54 git pull origin b1
